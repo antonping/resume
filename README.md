@@ -1,6 +1,5 @@
 # resume
 
-This is my resume. (In English, built with Typst)
+This is my resume in English, built with [Typst](https://typst.app/).
 
-- [Preview](https://github.com/antonping/resume/blob/master/resume.pdf)
-- [Download](./resume.pdf)
+[View PDF](./resume.pdf) — click to preview or download.
