@@ -52,12 +52,12 @@
 #edu(
   institution: "Moscow State University, Faculty of Computational Mathematics and Cybernetics",
   location: "Moscow, Russia",
-  dates: dates-helper(start-date: "Sept. 2021", end-date: "Aug. 2026"),
+  dates: dates-helper(start-date: "Sept. 2021", end-date: "June 2026"),
   degree: "Bachelor's in Fundamental Informatics and Information Technology",
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   // consistent: true
 )
-- Student at the Department of System Programming. Cumulative GPA: 4.6\/5.0.
+- Student at the Department of System Programming. Cumulative GPA: 4.71\/5.0.
 - Academic supervisor: Alexey V. Khoroshilov (Хорошилов Алексей Владимирович)
 - Bachelor's Thesis: "Prune: functional-logic programming language for constraints-based test data generation"
 
